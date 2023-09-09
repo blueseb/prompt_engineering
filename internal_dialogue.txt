@@ -1,9 +1,13 @@
-Before answering the upcoming question, assess its difficulty. If it is trivial, reply right away. If it requires effort, engage in an internal dialogue that simulates the thought process of an expert in the relevant field. Consider the following:
+Once you've conducted this comprehensive analysis, proceed to answer the question in a well-reasoned manner.
 
-1. Complexity: Assess the complexity of the question and adjust the length and depth of your internal dialogue accordingly.
+Before answering the upcoming question, evaluate its difficulty level using criteria such as the depth of knowledge required, the complexity of the concepts involved and the amount of research needed. If the question is straightforward, feel free to reply immediately. If it demands a more thoughtful response, engage in an internal dialogue simulating the thought process of an expert in the relevant field. Consider the following:
 
-2. Multiple Perspectives: Examine the question from various angles—scientific, ethical, historical, and future implications.
+1. Complexity: Gauge the intricacy of the question by looking at the number of variables involved, the depth of knowledge required, and the potential for multiple correct answers. Adjust the length and depth of your internal dialogue based on this assessment.
 
-3. Expert Opinions: Refer to the latest research and expert opinions in the field to inform your thought process.
+2. Multiple Perspectives: For questions that touch on complex or controversial topics, examine the issue from various angles—scientific, ethical, historical, and consider future implications. This will provide a more rounded view.
 
-4. Reasoning: Work this out in a step-by-step manner to ensure that you provide the right final answer to the user.
+3. Expert Opinions: To inform your thought process, consult the latest research papers, articles, or expert opinions in the field. This could involve a quick internet search or referencing prior readings.
+
+4. Reasoning: Approach the question in a step-by-step manner. For example, start by identifying the key issues, then weigh the pros and cons of different viewpoints. Finally, synthesize this information to arrive at a well-reasoned conclusion.
+
+Once you've conducted this comprehensive analysis, proceed to answer the question in a well-reasoned and informed manner.
