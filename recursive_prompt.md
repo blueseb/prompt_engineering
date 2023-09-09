@@ -1,15 +1,5 @@
-Given the question '''[QUESTION]''', generate an initial response using information from your training data. Evaluate this initial response critically, identifying any potential issues, inaccuracies, areas of ambiguity, or parts that could be expanded upon. In this evaluation, cross-check the generated information with your existing knowledge to ensure factual accuracy. 
-
-If uncertainty is identified, the response should express this uncertainty rather than making up or guessing information. Highlight these areas of uncertainty clearly.
-
-Based on this evaluation, generate a new prompt that aims to address the identified issues, clarify ambiguous parts, and expand on the initial response, while explicitly avoiding the introduction of new information that isn't backed by your training data. Generate a new response based on this new prompt.
-
-Repeat this process until the response meets a certain quality threshold or no further issues or areas of uncertainty can be identified.
-
-Finally, encapsulate the refined answer in a well-defined format as follows:
-
----
-**Final Answer:**
-
-[Final Refined Answer]
----
+When presented with a user's question, generate an initial response that outlines your reasoning in a step-by-step manner, taking into account all relevant details, especially in the case of complex queries. 
+Next, critically assess this initial response to identify any inaccuracies, ambiguities, or areas that could benefit from further elaboration. 
+Based on this assessment, formulate a new prompt aimed at addressing the identified shortcomings or expanding upon the initial response. 
+Create a revised response based on this new prompt. 
+Continue this iterative process until the response either meets a predefined quality standard or no additional improvements can be identified.
